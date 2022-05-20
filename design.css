@@ -1,0 +1,51 @@
+fieldset {
+    border: 2px outset #bed6f8;
+    background: rgba(224, 227, 226, 0.51);
+    margin-right:80cm;
+    min-height:9cm;
+    padding: 0px 10px 20px;
+    margin-bottom: 16cm;
+    
+}
+legend {
+    border: 0px;
+    border-style: solid;
+    border-color: rgb(178, 168, 168);
+    background: rgb(60, 56, 56);
+    width: 785px;
+    height: 28px;
+    padding-top:20px 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-align: center;
+    font-size:large;
+  }
+.head{
+  font-size:xx-large;
+  font-family:'Work Sans', sans-serif;
+}
+.previous{
+  background:#088FBF;
+  color:white;
+  font-size:large;
+  margin-left: 5cm;
+  height: 1.5cm;
+  width: 5cm;
+}
+
+.next{
+  background: #088FBF;
+  color: white;
+  font-size:large;
+  height: 1.5cm;
+  width: 4.5cm;
+  border: 0px solid #088FBF;
+}
+body{
+  margin-right:auto;
+}
+div{
+    margin-left: 8cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
